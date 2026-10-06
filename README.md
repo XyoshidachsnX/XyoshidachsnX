@@ -1,11 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Almeida</h1>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=XyoshidachsnX">
-    <img src="https://komarev.com/ghpvc/?username=XyoshidachsnX&label=Profile%20views&color=00FFFF&style=flat-square" alt="XyoshidachsnX's profile views" />
-  </a>
-</p>
-
 <img src="https://i.pinimg.com/originals/0c/f6/dc/0cf6dcd008c19dedbd458932a787cc8a.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
